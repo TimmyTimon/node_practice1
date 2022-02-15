@@ -1,0 +1,7 @@
+  -> How To Categorize BigCommerce Topics:
+1.BigCommmerce Dashboard and top tricks and tips.
+2.BigCommerce Topics - Must Knows, ecommerce topics
+3.BigCommerce Themes and templates , web design tips
+4.BigCommerce Apps
+5.Wordpress and BigCommerce.
+6.BigCommerce page builders.
